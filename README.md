@@ -48,6 +48,7 @@ cd batman-password-generator
 ```bash
 npm install
 # or
+# or
 yarn install
 ```
 
@@ -114,3 +115,4 @@ Feel free to open issues, suggest improvements, or send pull requests. All help 
 <p align="center">
   Built with 🦇 and a little organized chaos.
 </p>
+>>>>>>> origin/main
